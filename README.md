@@ -1,6 +1,6 @@
 # world_time_app
 
-A new Flutter application.
+A Flutter application built following the Net Ninja tutorial
 
 ## Getting Started
 
